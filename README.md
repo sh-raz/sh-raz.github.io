@@ -9,7 +9,7 @@ I implemented this simple voice recorder to gain experience working with the AVF
 
 
 
-![Project Screenshot 1](/Users/shilan/Desktop/CVMarch/MyPortfolio/sh-raz.github.io/images/VoiceRecorderImages.png)  
+![Project Screenshot 1](images/VoiceRecorderImages.png)  
  
 
 **Technologies Used**  
@@ -19,7 +19,3 @@ I implemented this simple voice recorder to gain experience working with the AVF
 - UICollectionView compositional layout
 - FileManager for persistence locally
 
-
-
-<!-- **Source Code**   
-- [GitHub Repository](#) -->
